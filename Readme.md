@@ -1,5 +1,6 @@
 <h3> Site de apresentação destinado ao ramo empresarial cujo o foco é a sua divulgação. </h3>
 
+<h4>Site desenvolvido em HTML e CSS</h4>
 <h4>Link para teste: https://stupefied-bell-7a7764.netlify.app</h4>
 
 <h4>Imagens do projeto:</h4>
